@@ -1,4 +1,4 @@
- FuzzyWuzzy.pas - Fuzzy String Matching in Pascal
+ FuzzyWuzzy.pas - Fuzzy String Matching in Free Pascal
 ==================
 
 FuzzyWuzzy.pas is a (Free) Pascal port of [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy), a fuzzy string matching library that uses the [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance).
@@ -12,7 +12,7 @@ After installing the [Free Pascal](https://www.freepascal.org/) binaries for you
 > ./DemoUsage
 ```
 
-## Supported Algorithms
+### Supported Algorithms
 
 * Ratio()
 * PartialRatio()
